@@ -1,0 +1,17 @@
+{
+  "name": "free_sepolia_eth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "free_sepolia_eth.js",
+  
+  "scripts": {
+    "start": "node app.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tatumio/tatum": "^4.1.11"
+  }
+}
